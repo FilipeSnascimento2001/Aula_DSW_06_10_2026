@@ -1,0 +1,7 @@
+br\senac\sp\tads\dsw\exemplo5\repository\FuncionarioRepository.class
+br\senac\sp\tads\dsw\exemplo5\controller\FuncionarioController.class
+br\senac\sp\tads\dsw\exemplo5\Exemplo5Application.class
+br\senac\sp\tads\dsw\exemplo5\repository\DepartamentoRepository.class
+br\senac\sp\tads\dsw\exemplo5\model\Departamento.class
+br\senac\sp\tads\dsw\exemplo5\model\Funcionario.class
+br\senac\sp\tads\dsw\exemplo5\controller\DepartamentoController.class
