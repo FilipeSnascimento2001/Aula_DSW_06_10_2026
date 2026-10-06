@@ -81,7 +81,7 @@ public class DepartamentoControllerTest {
         Departamento departamento = new Departamento();
         departamento.setNome( "Turma B - TADS");
         departamento.setOrcamento(3600.00);
-        Departamento departamentoSalvo = repository .save(departamento);
+        Departamento departamentoSalvo = repository.save(departamento);
 
         mockMvc.perform(get("/api/departamentos/" + departamentoSalvo.getId()))
                 .andExpect(status().isOk())
